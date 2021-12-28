@@ -1,0 +1,14 @@
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\bin\Debug\Krasavin_S.V.(ISP-334).exe.config
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\bin\Debug\Krasavin_S.V.(ISP-334).exe
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\bin\Debug\Krasavin_S.V.(ISP-334).pdb
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V._ISP_334_.Form1.resources
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V._ISP_334_.Properties.Resources.resources
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V.(ISP-334).csproj.GenerateResource.Cache
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V.(ISP-334).exe
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V.(ISP-334).pdb
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V.(ISP-334).csprojResolveAssemblyReference.cache
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V._ISP_334_.Form2.resources
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V._ISP_334_.Form3.resources
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V._ISP_334_.Form4.resources
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V._ISP_334_.Form5.resources
+F:\ISP-334\Krasavin_S.V.(ISP-334)\Krasavin_S.V.(ISP-334)\obj\Debug\Krasavin_S.V._ISP_334_.Form6.resources
